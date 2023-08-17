@@ -26,7 +26,7 @@
 
 <div style="display: flex; justify-content: space-between;">
   <div>
-    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amankumar1906&show_icons=true&locale=en&layout=compact" alt="amankumar1906" /></p>
+    <p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=amankumar1906&show_icons=true&locale=en&layout=compact" alt="amankumar1906" /></p>
   </div>
   <div>
     <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=amankumar1906&" alt="amankumar1906" /></p>
