@@ -4,9 +4,9 @@
 <img align="right" alt="coding" width="300" src="https://media.tenor.com/Ojl5HSvwX6QAAAAC/dog-laptop.gif">
 
 
-- 🔭 I’m currently working on **Refactoring of Ant Design Componentss**
+- 🔭 I’m currently working on **AskATask-A platform to help students and professors complete their daily tasks**
 
-- 🌱 I’m currently learning **Kubernetes and Terraform**
+- 🌱 I’m currently learning **PostgreSQl**
 
 - 👯 I’m looking to collaborate on **Container Orchestration using Kubernetes**
 
