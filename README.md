@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **AskATask-A platform to help students and professors complete their daily tasks**
 
-- 🌱 I’m currently learning **PostgreSQl**
+- 🌱 I’m currently learning **PostgreSQL**
 
 - 👯 I’m looking to collaborate on **Container Orchestration using Kubernetes**
 
