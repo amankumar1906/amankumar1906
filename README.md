@@ -1,24 +1,15 @@
-![MasterHead](https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966)
-
 <h1 align="center">Hi 👋, I'm Aman Kumar</h1>
 <h3 align="center">Software Engineer | AI & Full Stack Developer | Building Production AI Systems & Intelligent Agents</h3>
 <img align="right" alt="coding" width="300" src="https://media.tenor.com/Ojl5HSvwX6QAAAAC/dog-laptop.gif">
 
 ## 🚀 About Me
 
-Software Engineer at **Diamond Diagnostics** with expertise in AI/LLM systems, full-stack development, and scalable enterprise applications. Previously founding engineer at **Venu** (AI-powered mobile app, 4.8+ rating) and intern at **READY.NET** and **PAYBACK**. Master's in CS from Boston University (4.0 GPA).
-
-**Current Work:**
-- Engineering AI dispatch systems integrating LLMs with Google Maps API (30% faster dispatch, 15% cost reduction)
-- Building modular Angular ERP architecture (40% code reduction, 35% faster feature delivery)
-- Deploying real-time WebSocket notification systems (99.9% delivery reliability, sub-200ms latency)
-- Optimizing backend with Redis, AWS Lambda, and S3 (25% lower API latency, 99.95% uptime)
+Software Engineer with expertise in AI/LLM systems, full-stack development, and scalable enterprise applications. Previously founding engineer at **Venu** (AI-powered mobile app, 4.8+ rating) and intern at **READY.NET** and **PAYBACK**. Master's in CS from Boston University (4.0 GPA).
 
 ---
 
 ## 💼 Professional Highlights
 
-- 🔭 **Currently:** Software Engineer at Diamond Diagnostics (Holliston, MA)
 - 🤖 **AI Engineering:** RAG Pipelines, Agents, LangChain, LangGraph, Vector Search, AWS Bedrock
 - 🌱 **Learning:** Advanced Multi-Agent Systems, Agent Orchestration, Complex AI Workflows
 - 👯 **Open to:** Collaborating on AI Agent Systems, RAG Pipelines, and Agentic Workflows
@@ -102,22 +93,6 @@ AI-powered resume optimization platform using Gemini and OpenAI APIs with RAG pi
 
 ### 📱 Venu - Social Discovery App (Founding Team)
 Cross-platform mobile app (React Native/Expo) with 4.8+ rating. Built AI recommendation engine using AWS Bedrock and Google Places API, enabling successful pre-seed funding.
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amankumar1906&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amankumar1906&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amankumar1906&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
-</p>
 
 ---
 
