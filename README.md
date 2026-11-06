@@ -6,7 +6,6 @@
 
 Currently building [Walkie One](https://walkieone.com) at
 [Santa’s AI Lab](https://github.com/santasailab) in Los Angeles.
-I like making things you can talk to, press buttons on, and tinker with.
 
 Also into chess ♟️ and Rubik’s cubes. I can solve one in under 40 seconds.
 
